@@ -95,3 +95,4 @@ Publicação e Acompanhamento
    - Feedback dos usuários será considerado para melhorias contínuas.
 
 "Adiciona funcionalidades principais"
+"Funcionalidade de login, Funcionalidade de perfil"
