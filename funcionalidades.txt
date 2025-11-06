@@ -94,3 +94,4 @@ Publicação e Acompanhamento
    - O desempenho do site será acompanhado por ferramentas como Google Analytics e Lighthouse.  
    - Feedback dos usuários será considerado para melhorias contínuas.
 
+"Adiciona funcionalidades principais"
