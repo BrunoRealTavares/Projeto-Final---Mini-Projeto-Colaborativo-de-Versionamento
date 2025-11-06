@@ -1,1 +1,44 @@
+tecnologias.txt
+Planejamento e Design
+--------------------------------
+1. Figma - Ferramenta usada na etapa inicial para criar o protótipo do site institucional, definir cores, tipografia e layout das páginas.
+2. Google Fonts - Seleção das fontes que serão aplicadas no design para manter a identidade visual da empresa.
+3. Font Awesome - Definição dos ícones que serão usados para melhorar a navegação e reforçar o design visual.
+
+Estruturação do Site
+--------------------------------
+4. HTML - Linguagem utilizada para estruturar todo o conteúdo do site, incluindo cabeçalhos, seções, formulários e rodapé.
+5. SEO (Search Engine Optimization) - Aplicação de boas práticas no HTML (como uso correto de tags, meta descriptions e headings) para melhorar o posicionamento do site nos mecanismos de busca.
+
+Estilização e Layout
+--------------------------------
+6. CSS - Responsável por toda a parte visual do site (cores, espaçamento, tipografia e transições suaves).
+7. Bootstrap - Framework utilizado para criar um layout responsivo e componentes prontos (como botões, menus e cards).
+8. SASS (Pré-processador CSS) - Organiza o código CSS com variáveis e mixins, tornando o desenvolvimento mais rápido e padronizado.
+
+Funcionalidades e Interatividade
+--------------------------------
+9. JavaScript - Adicionado para criar interatividade (validação do formulário, animações e navegação dinâmica entre seções).
+10. DOM Manipulation - Utilização de métodos JavaScript para alterar e atualizar o conteúdo da página em tempo real.
+
+Automação e Gerenciamento
+--------------------------------
+11. Node.js - Ambiente de execução que permite rodar scripts, compilar SASS e automatizar tarefas de build.
+12. NPM (Node Package Manager) - Gerenciador de dependências usado para instalar bibliotecas (como Bootstrap e Font Awesome).
+
+Versionamento e Colaboração
+--------------------------------
+13. Git - Controle de versão usado por toda a equipe para registrar as mudanças e manter o histórico do projeto.
+14. GitHub - Repositório remoto utilizado para colaboração entre os membros, criação de branches e resolução de conflitos.
+
+Desenvolvimento e Testes
+--------------------------------
+15. VSCode - Editor de código utilizado para o desenvolvimento, com extensões que ajudam na padronização e formatação do código.
+16. Live Server (Extensão do VSCode) - Permite visualizar o site em tempo real durante o desenvolvimento e testar responsividade.
+
+Publicação e Manutenção
+--------------------------------
+17. GitHub Pages - Utilizado para hospedar o site institucional gratuitamente e disponibilizar o acesso online.
+18. Google Analytics - Integrado para monitorar o tráfego, comportamento e desempenho dos visitantes.
+19. Lighthouse (ferramenta do Google) - Usada para auditar desempenho, SEO e acessibilidade antes da publicação final.
 
