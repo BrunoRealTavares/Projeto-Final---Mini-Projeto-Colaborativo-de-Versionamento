@@ -1,1 +1,10 @@
- (Bruno Real Tavares: Dono do Repositório).
+ RESUMO DAS FUNÇÕES DA EQUIPE
+
+ Membro 1 Bruno - Líder de Projeto / Controle de Versionamento
+  • Criar repositório, revisar merges, resolver conflitos, aplicar tag final
+
+Membro 2 Cássio - Front-end Developer
+  • Criar estrutura HTML/CSS, layout e funcionalidades da interface
+
+ Membro 3 Eduardo e Membro 4 Felipe - Back-end Developer / DevOps
+  • Listar tecnologias, preparar estrutura de servidor, resolver conflitos e integração
