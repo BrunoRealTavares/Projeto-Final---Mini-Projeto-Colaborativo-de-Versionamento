@@ -1,0 +1,97 @@
+funcionalidades.txt
+# Funcionalidades do Site Institucional – TechNova
+
+Planejamento e Estrutura
+--------------------------------
+1. Estrutura de Navegação Clara  
+   - Menu principal fixo com links para todas as seções (Início, Sobre, Serviços e Contato).  
+   - Roteamento interno por âncoras com rolagem suave entre as seções.  
+   - Logo da empresa com link para retornar à página inicial.
+
+2. Hierarquia de Conteúdo  
+   - Organização do conteúdo com títulos, subtítulos e parágrafos bem definidos.  
+   - Uso de headings (h1, h2, h3) seguindo boas práticas de SEO e acessibilidade.
+
+3. Layout Responsivo  
+   - Adaptação automática do site a diferentes tamanhos de tela (desktop, tablet e celular).  
+   - Ajuste dinâmico de imagens, fontes e espaçamentos via CSS Flexbox e media queries.
+
+Conteúdo Institucional
+--------------------------------
+4. Página Inicial (Home)  
+   - Apresenta a marca e o slogan principal da empresa.  
+   - Destaque para as principais soluções e chamada para ação (CTA).  
+   - Banner com fundo visual atrativo e texto sobreposto.
+
+5. Seção “Sobre Nós”  
+   - Explica a missão, visão e valores da empresa.  
+   - Apresenta um breve histórico e a filosofia da equipe.  
+   - Layout dividido em colunas para facilitar leitura e destaque de informações.
+
+6. Seção “Serviços”  
+   - Cards dinâmicos apresentando os principais serviços oferecidos (Web Design, Automação, Consultoria, etc.).  
+   - Cada card contém título, ícone e descrição curta.  
+   - Organização responsiva em 2 ou 3 colunas conforme o tamanho da tela.
+
+Interatividade e Funcionalidades Dinâmicas
+--------------------------------
+7. Formulário de Contato  
+   - Campos obrigatórios: nome, e-mail e mensagem.  
+   - Validação no front-end feita com JavaScript.  
+   - Exibição de mensagem de confirmação após envio bem-sucedido.  
+   - Limpeza automática dos campos após o envio.
+
+8. Rolagem Suave entre Seções  
+   - Implementada via JavaScript para melhorar a experiência do usuário.  
+   - Ao clicar em um item do menu, a página rola até a seção correspondente de forma fluida.
+
+9. Feedback ao Usuário  
+   - Alertas personalizados quando o formulário é enviado ou preenchido incorretamente.  
+   - Mensagens de erro visuais (cores e ícones) para indicar campos obrigatórios.
+
+10. Animações e Efeitos Visuais  
+   - Transições suaves em botões e elementos de destaque.  
+   - Efeitos de hover e foco para guiar a interação.  
+   - Uso de sombras e gradientes leves no design.
+
+Acessibilidade e Usabilidade
+--------------------------------
+11. Navegação Intuitiva  
+   - Menu de fácil compreensão e acesso rápido a todas as seções.  
+   - Links descritivos e textos alternativos em imagens (alt text).
+
+12. Contraste e Leitura  
+   - Cores pensadas para boa legibilidade em diferentes dispositivos.  
+   - Fontes limpas e tamanhos ajustáveis para melhor acessibilidade.
+
+Rodapé e Informações Complementares
+--------------------------------
+13. Rodapé (Footer)  
+   - Exibe direitos autorais e o nome da empresa.  
+   - Links para redes sociais (LinkedIn, Instagram e GitHub).  
+   - Informações de contato rápido (e-mail ou telefone).
+
+14. Link para Políticas e Termos (opcional)  
+   - Espaço reservado no rodapé para futura inclusão de políticas de privacidade e termos de uso.
+
+Gerenciamento e Atualizações
+--------------------------------
+15. Organização Estrutural  
+   - Estrutura de pastas organizada (HTML, CSS, JS e arquivos de documentação).  
+   - Código limpo, semântico e comentado para facilitar futuras manutenções.
+
+16. Facilidade de Expansão  
+   - Possibilidade de adicionar novas seções (Blog, Portfólio, FAQ) sem alterar a base do código.  
+   - Sistema de navegação e layout preparado para futuras evoluções.
+
+Publicação e Acompanhamento
+--------------------------------
+17. Deploy via GitHub Pages  
+   - O site será hospedado gratuitamente para acesso público.  
+   - Atualizações automáticas após cada merge na branch principal (main).
+
+18. Monitoramento e Ajustes  
+   - O desempenho do site será acompanhado por ferramentas como Google Analytics e Lighthouse.  
+   - Feedback dos usuários será considerado para melhorias contínuas.
+
+
